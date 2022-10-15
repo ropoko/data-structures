@@ -3,6 +3,7 @@
 Repo to practice and learn data structures and algorithms.
 
 ## Structures Implemented
+- [ ] Array
 - [ ] Linked List
 - [ ] General Tree
 - [ ] Binary Tree

@@ -1,5 +1,7 @@
 # Numbers
 
+**Difficult: Easy**
+
 Write a program that receives a decimal number and print the same number as octal, binary and hex
 
 Input:
